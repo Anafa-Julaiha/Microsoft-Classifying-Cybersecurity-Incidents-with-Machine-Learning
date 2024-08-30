@@ -39,7 +39,7 @@ This project focuses on classifying cybersecurity incidents into categories (TP,
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/microsoft-cybersecurity-classification.git
+git clone https://github.com/Anafa-Julaiha/microsoft-cybersecurity-classification.git
 cd microsoft-cybersecurity-classification
 pip install -r requirements.txt
 
