@@ -8,7 +8,7 @@ This project focuses on classifying cybersecurity incidents into categories (TP,
 
 ### 1. Data Exploration and Understanding
 - **Initial Inspection**: Loaded `train.csv` dataset to examine its structure, including the number of features, variable types (categorical, numerical), and distribution of the target variable (TP, BP, FP).
-- **Exploratory Data Analysis (EDA)**: Utilized visualizations (heatmaps, boxplots, countplots) and statistical summaries to detect patterns, correlations, and anomalies. Addressed class imbalances where necessary.
+- **Exploratory Data Analysis (EDA)**: Utilized visualizations (heatmaps,histogram,countplots) and statistical summaries to detect patterns, correlations, and anomalies. Addressed class imbalances where necessary.
 
 ### 2. Data Preprocessing
 - **Handling Missing Data**: Applied SimpleImputer to manage missing values in the dataset.
